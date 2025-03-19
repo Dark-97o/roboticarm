@@ -22,7 +22,7 @@ The Robotic Arm project is designed to control a robotic arm using servos and Bl
   - "RESET" to clear saved positions
 
 ## Authors
-- [Your Name Here]
+- Subhranil Baul
 
 ## License
 This project is licensed under the MIT License.
